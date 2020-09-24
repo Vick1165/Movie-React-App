@@ -105,3 +105,12 @@ header {
 .tag.red {
   color: red;
 }
+
+@media only screen and (max-width: 1185px) {
+  header {
+    justify-content: center;
+  }
+  .search {
+    padding: 0.5rem;
+  }
+}
