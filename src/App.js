@@ -3,7 +3,7 @@ import "./App.css";
 import Movie from "./components/Movie";
 
 // 34.51
-//https://youtu.be/sZ0bZGfg_m4?t=2091
+//https://youtu.be/sZ0bZGfg_m4?t=2416
 
 const ApiKey = "7144d7031e83d249c05dcd347f0f5021";
 const DiscoverApi = `https://api.themoviedb.org/3/discover/movie?api_key=${ApiKey}&language=en-US&sort_by=popularity.desc`;
